@@ -1,3 +1,4 @@
 Testing Git, monkey aint understand shit
 test changing from clone
 Giai quyet xung dot tren GIT
+Chinh sua va tao xung dot
